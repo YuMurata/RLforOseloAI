@@ -1,3 +1,0 @@
-B	0	0 	board.png
-C 	0 	0	black.png
-C	100	0	white.png	 

@@ -1,8 +1,0 @@
-﻿  CellMGR.cpp
-  CellPut.cpp
-d:\documents\github\rlforoseloai\osero\osero\cellmgr.h(11): fatal error C1083: include ファイルを開けません。'OseloClass.h':No such file or directory (ソース ファイルをコンパイルしています CellMGR.cpp)
-  OseloObject.cpp
-d:\documents\github\rlforoseloai\osero\osero\cellmgr.h(11): fatal error C1083: include ファイルを開けません。'OseloClass.h':No such file or directory (ソース ファイルをコンパイルしています CellPut.cpp)
-  Osero.cpp
-d:\documents\github\rlforoseloai\osero\osero\cellmgr.h(11): fatal error C1083: include ファイルを開けません。'OseloClass.h':No such file or directory (ソース ファイルをコンパイルしています OseloObject.cpp)
-d:\documents\github\rlforoseloai\osero\osero\cellmgr.h(11): fatal error C1083: include ファイルを開けません。'OseloClass.h':No such file or directory (ソース ファイルをコンパイルしています Osero.cpp)
